@@ -1,0 +1,2 @@
+include ':app', ':mysql-connector-java-5.1.23-bin', ':ksoap2-android-assembly-2.5.8-jar-with-dependencies'
+rootProject.name='COVID19'
